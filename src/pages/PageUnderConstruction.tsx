@@ -7,7 +7,7 @@ export default function PageUnderConstruction() {
         <div className="text-warning">
           <HardHat className="w-16 h-16 mx-auto" />
         </div>
-        <h1 className="text-3xl font-bold">Page en cours de développement</h1>
+        <h1 className="text-3xl font-bold">yes Page en cours de développement</h1>
         <p className="text-base-content">
           Cette fonctionnalité est actuellement en construction. Nous travaillons dur pour la rendre disponible bientôt.
         </p>
